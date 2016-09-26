@@ -10,5 +10,11 @@ gemspec
 # Git. Remember to move these dependencies to your gemspec before releasing
 # your gem to rubygems.org.
 
+
+#authentication gem added
+gem 'jwt'
+gem 'devise'
+
+
 # To use a debugger
 gem 'byebug', group: [:development, :test]
